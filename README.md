@@ -117,7 +117,7 @@ SNP-Calling-Analysis/
 ## Usage
 Clone this repository and follow the steps in the workflow:
 ```bash
-git clone https://github.com/yourusername/snp-calling-workflow.git
+git clone https://github.com/Khaled-H-Mousa/snp-calling-workflow.git
 cd snp-calling-workflow
 bash scripts/run_workflow.sh
 ```
@@ -132,6 +132,6 @@ bash scripts/run_workflow.sh
 ---
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Khaled-H-Mousa](https://github.com/Khaled-H-Mousa)
 
 
